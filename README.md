@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" alt="side Image" align="right" width="500" height="auto" />
 
 - 🏦 I’m currently a pre-final year, Computer Undergraduate at Thapar University, India
-- 💻 I'm majoring in Conversatioanl AI and currently practicing Data Structures and Algorithms and Machine Learning
+- 💻 I'm majoring in Conversational AI and currently practicing Data Structures and Algorithms and Machine Learning
 - 🤔 I have a keen interest in Blockchain and I am currently exploring smart contracts and the Ethereum blockchain
 - ⚡ I’m looking for opportunities to collaborate on projects utilising Natural language processing, or/and web apps
 - 😄 I am a huge sport enthusiast. Talk to me about tennis! 
