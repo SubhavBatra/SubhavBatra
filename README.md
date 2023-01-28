@@ -1,6 +1,6 @@
 ## Hello there!  <img src="https://github.com/purjaysin/purjaysin/blob/main/media/Hi.gif" width="29px">
 <img src="https://komarev.com/ghpvc/?username=SubhavBatra&color=red" />
-<img src="https://i.imgur.com/mVIr207.gif" alt="side Image" align="right" width="500" height="auto" />
+<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" alt="side Image" align="right" width="500" height="auto" />
 
 - 🏦 I’m currently a pre-final year, Computer Undergraduate at Thapar University, India
 - 💻 I'm majoring in Conversatioanl AI and currently practicing Data Structures and Algorithms and Machine Learning
