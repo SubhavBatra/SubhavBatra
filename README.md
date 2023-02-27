@@ -13,4 +13,4 @@
   <img width="500" height="auto" align="right" alt="Subhav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=subhavbatra&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 
 - 🧑‍💻 Tech I work on: <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,express,nodejs,react,tensorflow&perline=4)](https://skillicons.dev)<br><br>
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,express,nodejs,react,tailwind,selenium,tensorflow&perline=4)](https://skillicons.dev)<br><br>
