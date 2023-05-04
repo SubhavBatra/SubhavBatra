@@ -1,6 +1,6 @@
 ## Hello there!  <img src="https://github.com/purjaysin/purjaysin/blob/main/media/Hi.gif" width="29px">
 <img src="https://komarev.com/ghpvc/?username=SubhavBatra&color=red" />
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="side Image" align="right" width="300" height="300" />
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="side Image" align="right" width="350" height="350" />
 
 - 🏦 I’m currently a pre-final year, Computer Undergraduate at Thapar University, India
 - 💻 I'm majoring in Conversational AI and currently practicing Data Structures and Algorithms and Machine Learning
