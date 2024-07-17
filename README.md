@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=SubhavBatra&color=red" />
 <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="side Image" align="right" width="350" height="350" />
 
-- 🏦 I’m currently a pre-final year, Computer Undergraduate at Thapar University, India
+- 🏦 I’m currently a Master's Student, Software Engineering at The University of Queensland, Australia
 - 💻 I'm majoring in Conversational AI and currently practicing Data Structures and Algorithms and Machine Learning
 - 🤔 I have a keen interest in Blockchain and I am currently exploring smart contracts and the Ethereum blockchain
 - ⚡ I’m looking for opportunities to collaborate on projects utilising Natural language processing, ML or/and web apps
